@@ -1,2 +1,3 @@
 # hello-world
-for test
+
+wprowadzam dalsze zmiany #elo
